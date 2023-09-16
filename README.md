@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Korey</h1>
-<h3 align="center">A passionate and enthusiastic full-stack software developer located in the UK, looking for a Junior Software Developer position.</h3>
+<h3 align="center">A passionate and enthusiastic full-stack software developer located in the UK, on the search for a Junior Software Developer position.</h3>
 
 - I’m currently working on a [Mini-Golf Tracker App](https://github.com/rockettdev/mini-golf)
 
