@@ -3,9 +3,8 @@
   I'm a passionate and business-focused full-stack developer with a knack for building scalable, maintainable solutions that solve real-world problems. With hands-on experience across frontend and backend technologies, I thrive in fast-paced environments where I can take ownership of projects and deliver real value.
 </h4>
 
-- I currently work for Cirencester Friendly Society as an Application Support Developer
-
-- I last worked on my [Mini-Golf Tracker App](https://github.com/rockettdev/mini-golf)
+🚀 **What I’m working on:**  
+Currently modernising legacy software and building new internal tools at Cirencester Friendly Society, where I develop full-stack solutions and lead production deployments for critical third-party software.
 
 - Contact me at: **kjr.dev@hotmail.com**
 
