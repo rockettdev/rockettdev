@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Korey</h1>
-<h2 align="center">
+<h4 align="center">
   I'm a passionate and business-focused full-stack developer with a knack for building scalable, maintainable solutions that solve real-world problems. With hands-on experience across frontend and backend technologies, I thrive in fast-paced environments where I can take ownership of projects and deliver real value.
-</h2>
+</h4>
 
 - I Currently work for Cirencester Friendly Society as an Application Support Developer
 
